@@ -25,5 +25,6 @@ In this paper, we are going to combine semantic embedding, vector similarity and
 In this paper, we would like classify whether question pairs are duplicates or not by applying advanced machine learning techniques. More specifically, our problem is a binary classification problem in which we take two natural language questions and return a binary result duplicate/different.
 
 More specifically, given a training dataset, we would like to derive a model that could minimize the log-loss on the test dataset. Details on our training dataset, which contains the features X, input information related to the two questions of interest and our label are explained in the section below.
-#
-Detailed work description was in the pdf: [Quora Question Pairs Final Report](https://github.com/yx1201/MachineLearning_QuoraQuestionPairs/blob/master/1003_FinalProjectReport.pdf)
+
+#### Detailed work description was in the pdf: [Quora Question Pairs Final Report](https://github.com/yx1201/MachineLearning_QuoraQuestionPairs/blob/master/1003_FinalProjectReport.pdf)
+#### Contribution: Preprocessing and XGboost Modeling
